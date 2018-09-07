@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>bf25c3ac0cd4</id>
+        <id>deploymentRepo</id>
         <name>bf25c3ac0cd4-releases</name>
         <url>http://13.233.28.211:8085/artifactory/nokia</url>
     </repository>
     <snapshotRepository>
-        <id>bf25c3ac0cd4</id>
+        <id>deploymentRepo</id>
         <name>bf25c3ac0cd4-snapshots</name>
         <url>http://13.233.28.211:8085/artifactory/nokia</url>
     </snapshotRepository>
