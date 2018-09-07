@@ -37,17 +37,16 @@
 		</plugin>
 	</plugins>
 	</build>
-  
-<distributionManagement>
+  <distributionManagement>
     <repository>
-        <id>deploymentRepo</id>
-        <name>bf25c3ac0cd4-releases</name>
-        <url>http://13.233.28.211:8085/artifactory/nokia</url>
+        <id>central</id>
+        <name>deploymentRepo</name>
+        <url>http://13.127.67.19:8081/artifactory/Ashok_Maven</url>
     </repository>
     <snapshotRepository>
-        <id>deploymentRepo</id>
-        <name>bf25c3ac0cd4-snapshots</name>
-        <url>http://13.233.28.211:8085/artifactory/nokia</url>
+        <id>snapshots</id>
+        <name>deploymentRepo</name>
+        <url>http://13.127.67.19:8081/artifactory/Ashok_Maven</url>
     </snapshotRepository>
 </distributionManagement>
 
