@@ -40,12 +40,12 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>51708afbf5e2-releases</name>
+        <name>deploymentRepo</name>
         <url>http://13.127.67.19:8081/artifactory/Rock_Maven</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>51708afbf5e2-snapshots</name>
+        <name>deploymentRepo</name>
         <url>http://13.127.67.19:8081/artifactory/Rock_Maven</url>
     </snapshotRepository>
 </distributionManagement>
